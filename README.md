@@ -4,3 +4,4 @@ Estimulo para registrar movimiento ocular de seguimiento en una muestra con Alzh
 Stimulus to record smooth pursuit in a sample with Alzheimer's. Participant must attempt to continuously follow and hold their gaze on a moving target object.
 
 ![GIF1](https://github.com/GCMacarena/Experimental-stimulus-Smooth-Pursuit/blob/main/estimulogif1.gif) ![GIF2](https://github.com/GCMacarena/Experimental-stimulus-Smooth-Pursuit/blob/main/estimulogif2.gif)
+![GIF4](https://github.com/GCMacarena/Experimental-stimulus-Smooth-Pursuit/blob/main/estimulogif4.gif)
